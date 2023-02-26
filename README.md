@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Item Store Sales Prediction](https://github.com/koushik2299/Item-Store-Sale-Prediction-)
 
-- 🌱 I’m currently learning **Flask, AWS,**
+- 🌱 I’m currently learning **Flask, AWS, Pyspark**
 
 - 📫 How to reach me **saikoushik.gsk@gmail.com**
 
