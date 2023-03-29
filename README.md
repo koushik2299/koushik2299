@@ -15,7 +15,7 @@ If you're looking for a driven and dynamic data analyst who is committed to deli
 
 - 📫 How to reach me **saikoushik.gsk@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1jXZEiLfaVYvfKTQqBVTlISsY0iFzgA4h/view?usp=sharing](https://drive.google.com/file/d/1jXZEiLfaVYvfKTQqBVTlISsY0iFzgA4h/view?usp=sharing)
+- 📄 Know about my experiences [View My Resume](https://drive.google.com/file/d/1Vxmbc94dNSAiXgUXCh0pZg1D7sKGere4/view?usp=share_link))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
