@@ -1,14 +1,15 @@
 <h1 align="center">Hi 👋, I'm Sai Koushik Gandikota</h1>
 <h3 align="center">Welcome to my GitHub page!</h3>
-<p align="center">I am a highly motivated and skilled data analyst with a Master's degree in Data Analytics, passionate about exploring innovative solutions to complex data problems. Here you will find a variety of repositories, ranging from academic projects to real-world data analysis examples.</p>
+<p align="center">I am a <strong>highly motivated and skilled data analyst</strong> with a <strong>Master's degree in Data Analytics</strong>, passionate about exploring <strong>innovative solutions</strong> to complex <strong>data problems</strong>. Here you will find a variety of <strong>repositories</strong>, ranging from <strong>academic projects</strong> to <strong>real-world data analysis examples</strong>.</p>
 
-<p align="center">I have experience in statistical modeling, data mining, and machine learning, as well as proficiency in Python, Java, and R programming languages. I also have experience working with various development and database tools, such as MySQL Workbench and MongoDB, and data analytical and visualization tools, including Tableau and Google Data Studio.</p>
+<p align="center">I have experience in <strong>statistical modeling, data mining, and machine learning</strong>, as well as proficiency in <strong>Python, Java, and R programming languages</strong>. I also have experience working with various <strong>development and database tools</strong>, such as <strong>MySQL Workbench and MongoDB</strong>, and <strong>data analytical and visualization tools</strong>, including <strong>Tableau and Google Data Studio</strong>.</p>
 
-<p align="center">My repositories include examples of data analysis projects, where I have collaborated with team members, communicated insights to stakeholders, and delivered actionable solutions. These repositories can be helpful for others' projects and data careers by providing examples of best practices and real-world applications.</p>
+<p align="center">My repositories include examples of <strong>data analysis projects</strong>, where I have <strong>collaborated with team members, communicated insights to stakeholders, and delivered actionable solutions</strong>. These repositories can be helpful for others' projects and data careers by providing examples of <strong>best practices and real-world applications</strong>.</p>
 
-<p align="center">Feel free to explore my repositories, fork them, and contribute to them. I am always open to enthusiastic collaborations and contributions to interesting projects. Let's connect and explore the possibilities of how we can learn and grow together in the field of data analysis.</p>
+<p align="center">Feel free to explore my repositories, fork them, and contribute to them. I am always open to <strong>enthusiastic collaborations</strong> and contributions to interesting projects. Let's connect and explore the possibilities of how we can <strong>learn and grow together in the field of data analysis</strong>.</p>
 
-<p align="center">Check out my portfolio at: <a href="https://koushik2299.github.io/">https://koushik2299.github.io/</a></p>
+<p align="center">Check out my portfolio at: <a href="https://koushik2299.github.io/"><strong>https://koushik2299.github.io/</strong></a></p>
+
 
 
 <img align="right" alt="Coding" width="400" src="https://ngsup.com/wp-content/uploads/wifi.gif">
