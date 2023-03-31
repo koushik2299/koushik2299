@@ -6,7 +6,7 @@
 
 <p align="center">My repositories include examples of <strong>data analysis projects</strong>, where I have <strong>collaborated with team members, communicated insights to stakeholders, and delivered actionable solutions</strong>. These repositories can be helpful for others' projects and data careers by providing examples of <strong>best practices and real-world applications</strong>.</p>
 
-<p align="center">Feel free to explore my repositories, fork them, and contribute to them. I am always open to <strong>enthusiastic collaborations</strong> and contributions to interesting projects. Let's connect and explore the possibilities of how we can <strong>learn and grow together in the field of data analysis</strong>.</p>
+<p align="center">Feel free to explore my repositories, fork them, and contribute to them. I am always open to <strong>enthusiastic collaborations</strong> and contributions to interesting projects. Let's connect and explore the possibilities of how we can <strong>learn and grow together in the field of Data Science</strong>.</p>
 
 <p align="center">Check out my portfolio at: <a href="https://koushik2299.github.io/"><strong>https://koushik2299.github.io/</strong></a></p>
 
