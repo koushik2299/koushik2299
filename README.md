@@ -11,6 +11,24 @@
 <p align="center">Check out my portfolio at: <a href="https://koushik2299.github.io/"><strong>https://koushik2299.github.io/</strong></a></p>
 
 
+<br/><br/>
+<p align="center">
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python badge" />
+  </a>
+  <a href="https://www.java.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java badge" />
+  </a>
+  <a href="https://www.r-project.org/" target="_blank">
+    <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R badge" />
+  </a>
+  <a href="https://www.tableau.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau badge" />
+  </a>
+  <a href="https://developers.google.com/datastudio/" target="_blank">
+    <img src="https://img.shields.io/badge/Google_Data_Studio-4285F4?style=for-the-badge&logo=google%20data%20studio&logoColor=white" alt="Google Data Studio badge" />
+  </a>
+</p>
 
 <img align="right" alt="Coding" width="400" src="https://ngsup.com/wp-content/uploads/wifi.gif">
 
