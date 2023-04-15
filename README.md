@@ -38,7 +38,7 @@
 
 - 📫 How to reach me **saikoushik.gsk@gmail.com**
 
-- 📄 Know about my experiences [View My Resume](https://drive.google.com/file/d/1Vxmbc94dNSAiXgUXCh0pZg1D7sKGere4/view?usp=share_link))
+- 📄 Know about my experiences [View My Resume](https://drive.google.com/file/d/12PE5w3-nEs-cwHGY6xW0y5905X4titWP/view?usp=sharing))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
