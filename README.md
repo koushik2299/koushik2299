@@ -32,9 +32,9 @@
 
 <img align="right" alt="Coding" width="400" src="https://ngsup.com/wp-content/uploads/wifi.gif">
 
-- 🔭 I’m currently working on [Item Store Sales Prediction](https://github.com/koushik2299/Item-Store-Sale-Prediction-)
+- 🔭 I’m currently working on Drowsiness Detection Using Deep Learning
 
-- 🌱 I’m currently learning **Flask, AWS, Pyspark**
+- 🌱 I’m currently learning **Flask, AWS, GCP, Pyspark**
 
 - 📫 How to reach me **saikoushik.gsk@gmail.com**
 
