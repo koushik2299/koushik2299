@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sai Koushik Gandikota</h1>
 <h3 align="center">Welcome to my GitHub page!</h3>
-<p align="center">I am a <strong>highly motivated and skilled data analyst</strong> with a <strong>Master's degree in Data Analytics</strong>, passionate about exploring <strong>innovative solutions</strong> to complex <strong>data problems</strong>. Here you will find a variety of <strong>repositories</strong>, ranging from <strong>academic projects</strong> to <strong>real-world data analysis examples</strong>.</p>
+<p align="center">I am a <strong>highly motivated and skilled data scientist</strong> with a <strong>Master's degree in Data Analytics</strong>, passionate about exploring <strong>innovative solutions</strong> to complex <strong>data problems</strong>. Here you will find a variety of <strong>repositories</strong>, ranging from <strong>academic projects</strong> to <strong>real-world data analysis examples</strong>.</p>
 
 <p align="center">I have experience in <strong>statistical modeling, data mining, and machine learning</strong>, as well as proficiency in <strong>Python, Java, and R programming languages</strong>. I also have experience working with various <strong>development and database tools</strong>, such as <strong>MySQL Workbench and MongoDB</strong>, and <strong>data analytical and visualization tools</strong>, including <strong>Tableau and Google Data Studio</strong>.</p>
 
