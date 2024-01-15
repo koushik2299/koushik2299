@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sai Koushik Gandikota</h1>
 <h3 align="center">Welcome to my GitHub page!</h3>
-<p align="center">I am a <strong>highly motivated and skilled data scientist</strong> with a <strong>Master's degree in Data Analytics</strong>, passionate about exploring <strong>innovative solutions</strong> to complex <strong>data problems</strong>. Here you will find a variety of <strong>repositories</strong>, ranging from <strong>academic projects</strong> to <strong>real-world data analysis examples</strong>.</p>
+<p align="center">I am a <strong>highly motivated and skilled data scientist</strong> with a <strong>Master's degree in Data</strong>, passionate about exploring <strong>innovative solutions</strong> to complex <strong>data problems</strong>. Here you will find a variety of <strong>repositories</strong>, ranging from <strong>academic projects</strong> to <strong>real-world data analysis examples</strong>.</p>
 
 <p align="center">I have experience in <strong>statistical modeling, data mining, and machine learning</strong>, as well as proficiency in <strong>Python, Java, and R programming languages</strong>. I also have experience working with various <strong>development and database tools</strong>, such as <strong>MySQL Workbench and MongoDB</strong>, and <strong>data analytical and visualization tools</strong>, including <strong>Tableau and Google Data Studio</strong>.</p>
 
-<p align="center">My repositories include examples of <strong>data analysis projects</strong>, where I have <strong>collaborated with team members, communicated insights to stakeholders, and delivered actionable solutions</strong>. These repositories can be helpful for others' projects and data careers by providing examples of <strong>best practices and real-world applications</strong>.</p>
+<p align="center">My repositories include examples of <strong>data science and engineering projects</strong>, where I have <strong>collaborated with team members, communicated insights, and delivered actionable solutions</strong>. These repositories can be helpful for others' projects and data careers by providing examples of <strong>best practices and real-world applications</strong>.</p>
 
 <p align="center">Feel free to explore my repositories, fork them, and contribute to them. I am always open to <strong>enthusiastic collaborations</strong> and contributions to interesting projects. Let's connect and explore the possibilities of how we can <strong>learn and grow together in the field of Data Science</strong>.</p>
 
@@ -15,9 +15,6 @@
 <p align="center">
   <a href="https://www.python.org/" target="_blank">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python badge" />
-  </a>
-  <a href="https://www.java.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java badge" />
   </a>
   <a href="https://www.r-project.org/" target="_blank">
     <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R badge" />
