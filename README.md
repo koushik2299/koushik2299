@@ -10,6 +10,8 @@
 
 <p align="center">Check out my portfolio at: <a href="https://koushik2299.github.io/"><strong>https://koushik2299.github.io/</strong></a></p>
 
+![](https://visitor-badge.glitch.me/badge?page_id=koushik2299.koushik2299)
+
 
 <br/><br/>
 <p align="center">
