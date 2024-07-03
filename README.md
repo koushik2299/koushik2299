@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sai Koushik Gandikota</h1>
+<h1 align="center">Hi 👋, I'm Koushik</h1>
 <h3 align="center">Welcome to my GitHub page!</h3>
 <p align="center">I am a <strong>data scientist</strong> with a <strong>Master's degree in Data Science</strong>, passionate about exploring <strong>innovative solutions</strong> to complex <strong>data problems</strong>. Here you will find a variety of <strong>repositories</strong>, ranging from <strong>academic projects</strong> to <strong>real-world data analysis examples</strong>.</p>
 
